@@ -17,8 +17,8 @@ Monitor zasobów systemowych napisany w Pythonie, który śledzi zużycie proces
    pip install psutil matplotlib
    
 3. Uruchom program:
-  ```bash
-  python monitor.py
+     ```bash
+     python monitor.py
 
 📝 Użycie
 -Uruchom skrypt monitor.py.
